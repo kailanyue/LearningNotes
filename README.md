@@ -1,7 +1,7 @@
 
 ### 软件说明
 markdown：Typora
-思维导图：MindMaster
+思维导图：MindMaster，后缀名为 `.emmx`
 
 
 ### [Flink](./Flink)
